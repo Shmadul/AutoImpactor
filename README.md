@@ -7,4 +7,4 @@ Setup:
   2. Change "Apple_iD@example.com" to the Apple iD you want to sign the ipa with
   3. Change "Password" to the Password of the Apple iD you want to sign the ipa with 
   4. Go to File > Export > Name the App > Change the File Format to Application > Click Save
-  5. Run the Created App and select iPA when Prompted
+  5. Run the Created App and Check the Box to enable AutoImpactor under System Prefrences > Security and Privacy > Accessability when prompted
